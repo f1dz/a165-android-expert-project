@@ -1,3 +1,5 @@
+@file:Suppress("unused")
+
 package com.dicoding.tourismapp
 
 import android.app.Application
